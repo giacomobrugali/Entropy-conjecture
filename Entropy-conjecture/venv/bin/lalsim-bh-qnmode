@@ -1,6 +1,0 @@
-#!/home/giacomo/Thesis/Entropy-conjecture/venv/bin/python3
-import os
-import sys
-from importlib.resources import files, as_file
-with as_file(files('lalapps') / 'bin' / 'lalsim-bh-qnmode') as path:
-    os.execv(path, sys.argv)

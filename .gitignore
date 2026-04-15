@@ -2,3 +2,11 @@
 __pycache__/
 *.pyc
 .DS_Store
+venv/
+.venv/
+**/venv/
+**/.venv/
+**/venv/
+**/*.Identifier
+.venv/
+venv/
