@@ -27,7 +27,7 @@ The analysis requires Python 3.12+ and relies heavily on scientific computing an
 It is recommended to run this project within a virtual environment:
 
 ```bash
-git clone [https://github.com/YOUR-USERNAME/Entropy-conjecture.git](https://github.com/YOUR-USERNAME/Entropy-conjecture.git)
+git clone [https://github.com/giacomobrugali/Entropy-conjecture.git](https://github.com/giacomobrugali/Entropy-conjecture.git)
 cd Entropy-conjecture
 python -m venv .venv
 source .venv/bin/activate
