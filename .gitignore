@@ -10,3 +10,5 @@ venv/
 **/*.Identifier
 .venv/
 venv/
+Entropy-conjecture/Precession_Analysis/bbh_precession_campaign/bbh_lowq_precession_campaign.sqlite
+Entropy-conjecture/Precession_Analysis/bbh_precession_campaign/bbh_lowq_precession_campaign.sqlite
