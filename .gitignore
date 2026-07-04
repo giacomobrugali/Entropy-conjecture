@@ -12,3 +12,6 @@ venv/
 venv/
 Entropy-conjecture/Precession_Analysis/bbh_precession_campaign/bbh_lowq_precession_campaign.sqlite
 Entropy-conjecture/Precession_Analysis/bbh_precession_campaign/bbh_lowq_precession_campaign.sqlite
+
+# Generated analysis databases
+Entropy-conjecture/0PN_analysis/data/aligned_spin_analysis/global_curve_validation/*.pkl
