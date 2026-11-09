@@ -27,7 +27,7 @@ Within the configurations explored, the conjecture can be extended beyond the no
 
 ---
 
-## Scientific Background
+## Theoretical Background
 
 A quasi-circular binary black hole (BBH) evolves through inspiral, merger and ringdown. During the inspiral, post-Newtonian theory provides an analytical description of the dynamics. As the separation shrinks, the gravitational field becomes strongly nonlinear and the PN expansion loses accuracy, so that a faithful description of the late inspiral and merger requires numerical relativity.
 
